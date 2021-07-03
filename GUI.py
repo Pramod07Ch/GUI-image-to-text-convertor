@@ -3,7 +3,7 @@ import os
 from PyQt5.QtWidgets import QApplication, QVBoxLayout, QMainWindow, QPushButton, QFileDialog, QWidget, QCheckBox, QHBoxLayout
 
 # User defined imports
-from image_to_text import OCRReader
+from OCR_reader import OCRReader
 
 
 class MainWindow(QMainWindow):
